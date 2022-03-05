@@ -1,4 +1,6 @@
 apt install zsh
+git clone https://Karomy404@github.com/Karomy404/zsh_kali_theme.git
+cd zsh_kali_theme
 cp ./.zshrc ~/.zshrc
 cp -r zsh /etc/zsh
 cp -r zsh-syntax-highlighting /usr/share/
