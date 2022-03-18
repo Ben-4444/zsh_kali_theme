@@ -1,3 +1,3 @@
-git clone https://Karomy404@github.com/Karomy404/zsh_kali_theme.git
+git clone https://github.com/Karomy404/zsh_kali_theme.git
 cd zsh_kali_theme
 sh install.sh
